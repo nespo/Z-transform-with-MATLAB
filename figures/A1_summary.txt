@@ -1,0 +1,3 @@
+A1(i): X1(z) = 1 + 2 z^{-1} + 5 z^{-2}
+A1(ii): X2(z) = 3 z^{-1} + 4 z^{-3}
+ROC: finite-length -> entire z-plane except possibly z=0 or z=∞ (no poles)

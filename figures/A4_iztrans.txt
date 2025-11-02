@@ -1,0 +1,2 @@
+xa[n] = (7/10)^n
+xb[n] = (3*(4/5)^n)/8 + (5*kroneckerDelta(n, 0))/8
